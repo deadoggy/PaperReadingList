@@ -1,7 +1,7 @@
 ## Kdd 2019 Reading list
 
-paper name | have read?
-...|...
+paper name | have read
+---|--
 A free energy based approach for distance metric learning | N
 Adversarial Substructured Representation Learning for Mobile User Profiling | N
 Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction | N
