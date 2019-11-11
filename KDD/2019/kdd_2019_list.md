@@ -8,8 +8,8 @@ Beyond Personalization: Social Content Recommendation for Creator Equality and C
 Clustering without Over-Representation | N
 Coupled Variational Recurrent Collaborative Filtering | N
 DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation | N
-Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination | N
-Dynamic Modeling and Forecasting of Time-evolving Data Streams | N
+Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination | Y | Good view of 'item-centered and user-centered;' Sampling unobserved interactions and using dual models(item-based and user-based model) to recgonize unobserved positive and unobserved negative samples; Experiments are well designed and organized; But embedding is linear and interpretability is not so solid; Expect, improvement of index is not so obvious. 
+Dynamic Modeling and Forecasting of Time-evolving Data Streams | N 
 Estimating Personalized Preferences Through Meta-Learning for User Cold-Start Recommendation | N
 Gradient-based Hierarchical Clustering using Continuous Representations of Trees in Hyperbolic Space | N
 Hidden POI Ranking with Spatial Crowdsourcing | Y | A good question, but not so interested in this topic. Article is a little hard to follow for me.
