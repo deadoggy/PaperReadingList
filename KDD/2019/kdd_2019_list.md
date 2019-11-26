@@ -3,7 +3,7 @@
 paper name | have read | comment
 ---|--|--
 A free energy based approach for distance metric learning | N
-Adversarial Substructured Representation Learning for Mobile User Profiling | N
+Adversarial Substructured Representation Learning for Mobile User Profiling | HY | Embedding user POI categories by graph and adversarial neural network; Not so related to my major but subgraph structure and POI categories are interesting
 Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction | N
 Clustering without Over-Representation | N
 Coupled Variational Recurrent Collaborative Filtering | N
